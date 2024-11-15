@@ -84,7 +84,7 @@ npm包: https://www.npmjs.com/package/react-lc-panel
 
 ---
 
-#### <a href="https://github.com/alindas/3d-editor" target="_blank" >3D场景编辑器</a>
+#### <a href="https://github.com/alindas/3d-building-block" target="_blank" >3D场景编辑器</a>
 使用组态思想搭建三维场景。
 
 线上演示: https://alindas.github.io
