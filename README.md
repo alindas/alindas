@@ -1,7 +1,7 @@
 <h2><img src="src/assert/hellokittydance.gif" alt="Hi" width="42" /> Hi 欢迎来访我的GitHub </h2>
 
-我的网名是`今童志敏（alindas）`，是一名前端开发工程师。拥有UI组件库、跨端应用、3D数字孪生等开发经验。<br>
-目前，我主要关注在：大前端、低代码、人工智能。下方可以看到我开源的相关项目repo。
+我的网名是`今童志敏（alindas）`，是一名前端开发工程师。拥有前端基建、跨端应用、3D数字孪生等开发经验。<br>
+目前，我主要关注在：人工智能、前端架构发展。下方可以看到我开源的相关项目repo。
 
 <em><b>I am a fun guy</b>  if you want to <a href="https://github.com/alindas/alindas/issues/new" >say <b>"hi 👋" </b></a>, <b>I'll be happy to meet you more!</b> : )</em>
 
@@ -20,7 +20,7 @@
 
 ---
 
-> by the way，you can also find me in these platforms
+> 另外，也可以在这些平台上找到我
 
 <!-- other platform -->
 <p align="center">
@@ -85,7 +85,7 @@ npm包: https://www.npmjs.com/package/react-lc-panel
 ---
 
 #### <a href="https://github.com/alindas/3d-building-block" target="_blank" >3D场景编辑器</a>
-使用组态思想搭建三维场景。
+基于组态思想搭建三维场景。
 
 线上演示: https://alindas.github.io
 
