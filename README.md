@@ -89,7 +89,7 @@ npm包: https://www.npmjs.com/package/react-lc-panel
 
 线上演示: https://alindas.github.io
 
-<img align="center" src="Octo/octocat.png" width="343" height="220" title="thanks">
+<img align="center" src="Octo/octocat.png" width="100%" height="100%" title="3d">
 
 <br>
 
