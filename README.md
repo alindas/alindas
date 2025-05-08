@@ -1,7 +1,7 @@
 <h2><img src="src/assert/hellokittydance.gif" alt="Hi" width="42" /> Hi 欢迎来访我的GitHub </h2>
 
-我的网名是`今童志敏（alindas）`，是一名前端开发工程师。拥有前端基建、跨端应用、3D数字孪生等开发经验。<br>
-目前，我主要关注在：人工智能、前端架构发展。下方可以看到我开源的相关项目repo。
+我的网名是`今童志敏（alindas）`，是一名全栈开发工程师。拥有前端基建、跨端应用、3D数字孪生、Node后台等开发经验。<br>
+目前，我主要关注在：人工智能、程序员的第二职业发展。下方可以看到我开源的相关项目repo。
 
 <em><b>I am a fun guy</b>  if you want to <a href="https://github.com/alindas/alindas/issues/new" >say <b>"hi 👋" </b></a>, <b>I'll be happy to meet you more!</b> : )</em>
 
