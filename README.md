@@ -93,6 +93,14 @@ npm包: https://www.npmjs.com/package/react-lc-panel
 
 <br>
 
+---
+
+#### <a href="#" target="_blank" >基于Canvas的类PS图片编辑器</a>
+
+<img align="center" src="https://github.com/alindas/picture-bed/blob/main/matting/snipaste.png" width="100%" height="100%" title="matting">
+
+<br>
+
 
 
 
